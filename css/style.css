@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial,sans-serif;
+}
+
+.container-fluid a.navbar-brand img {
+    padding-bottom: 13px;
+}
+
+.slick-arrow {
+    z-index: 5;
+}
+
+.slick-prev {
+    left: 30px;
+}
+
+.slick-next {
+    right: 50px;
+}
+
+#thanks {
+    display: none;
+}
+
